@@ -1,3 +1,17 @@
+
+This lesson was designed to teach both basic React Fundamentals with added Array Iteration Methods in 1 hour or less per Burlington Code Academy (BCA) Students request. - I have also added in some React Hooks, as I feel they are great to know and were not covered in my time at BCA.  
+
+Feel free to use this learning resource in anyway.
+
+Best,
+
+Christian Dow
+christianrdow@gmail.com
+or
+www.ChristianDow.com
+
+-------------------------------------------------React Boiler Instructions Below-----------------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
